@@ -18,10 +18,11 @@ wandb login
 
 # Run
 Run the main training script with the following command:
-
 ```bash
 python main.py --env cart_pole | lunar_lander [OPTIONS]
 ```
+
+If you want to run the same experiments, execute the `script.sh` files.
 
 ### Options
 - `--env`: environment to solve (options: `cart_pole`, `lunar_lander`).
