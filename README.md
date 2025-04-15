@@ -9,8 +9,8 @@ The code does not necessarily need to be executed. If you’re only interested i
 Clone the repository and install the requirements:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/edoardosarri24/Reinforcement-learning.git
+cd Reinforcement-learning
 conda env create -f environment.yml -n edoardosarri
 conda activate edoardosarri
 wandb login
