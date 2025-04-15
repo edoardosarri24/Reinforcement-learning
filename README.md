@@ -42,6 +42,5 @@ If you want to run the same experiments, execute the following command:
 To train the agent without using a baseline and visualize the final agent, you can run:
 
 ```bash
-wandb login
 python main.py --env cart_pole --episodes 1000 --visualize
 ```
