@@ -10,7 +10,7 @@ Clone the repository and install the requirements:
 
 ```bash
 git clone https://github.com/edoardosarri24/Reinforcement-learning.git
-cd Reinforcement-learning
+cd reinforcement-learning
 conda env create -f environment.yml -n edoardosarri
 conda activate edoardosarri
 wandb login
