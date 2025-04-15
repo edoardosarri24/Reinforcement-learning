@@ -22,7 +22,10 @@ Run the main training script with the following command:
 python main.py --env cart_pole | lunar_lander [OPTIONS]
 ```
 
-If you want to run the same experiments, execute the `script.sh` files.
+If you want to run the same experiments, execute the following command:
+```bash
+./script.sh
+```
 
 ### Options
 - `--env`: environment to solve (options: `cart_pole`, `lunar_lander`).
